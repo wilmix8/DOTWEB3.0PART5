@@ -119,4 +119,8 @@ DOTWEB.PRINTLN(""+ar);
 
 </DOTWEB>
 
+Technology code : 15 ;
+
+Since  15 derived  from  JDollarpart5 pronounced  to be  15.
+
 
